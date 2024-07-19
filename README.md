@@ -1,4 +1,4 @@
-      
+       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Python&pause=1000&color=838383&center=true&vCenter=true&random=false&width=435&lines=++-🌏+Hello,+I'm+Bekastan,+glad+to+see+you!+;I've+been+programming+in+Python;+for+1.5+years+;with+English+in+my+pocket.)](https://git.io/typing-svg)     
    
 <table border="1">
